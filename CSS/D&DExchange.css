@@ -1,0 +1,74 @@
+body {
+  background-image: url('https://i0.wp.com/dadosmisticos.com/wp-content/uploads/2020/03/bac3ba-do-tesouro.jpg?fit=1920%2C1080&ssl=1');
+  background-size: 100%;
+}
+section {
+  margin-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 450px;
+  text-align: center;
+  padding: 0px;
+  border-radius: 25px;
+}
+
+#Subtitle {
+  padding: 0.1%;
+  text-align: center;
+  font-size: 20px;
+  font-family: 'MedievalSharp', cursive;
+  background-color: grey;
+  background: rgb(254, 225, 112);
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+}
+.role {
+  background-color: grey;
+  margin-top: 30px;
+	width: 35rem;
+	margin: 3rem auto;
+	border-radius: 25px;
+}
+
+.locaisInfo{
+  padding: 10px;
+  margin-left: 20px;
+  font-family: 'MedievalSharp', cursive;
+}
+
+#dnd {
+  width: 300px;
+}
+
+.escolhas {
+  font-family: 'MedievalSharp', cursive;
+  font-size: 20px;
+}
+
+button {
+	font-family: 'MedievalSharp', cursive;
+	width: 100%;
+	background: rgb(254, 225, 112);
+	text-transform: uppercase;
+	font-size: 2rem;
+	padding: 1.25rem;
+	text-align: center;
+	margin: 1.5rem 0 0 0;
+	transition: 300ms;
+	border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+}
+
+button:hover {
+  background: #5def89;
+}
+
+#dePara{
+  text-align: left;
+  padding: 8px;
+  font-size: 30px;
+}
+
+#vemPraCa {
+  background-color: white;
+}
